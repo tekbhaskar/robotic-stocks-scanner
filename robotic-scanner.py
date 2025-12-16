@@ -25,7 +25,6 @@ LARGE_CAP = {
 MID_CAP = {
     "CGNX": "Cognex",
     "TER": "Teradyne / UR",
-    "IRBT": "iRobot",
     "PATH": "UiPath",
     "FANUY": "Fanuc",
 }
@@ -37,7 +36,6 @@ SMALL_CAP = {
     "BOTZ": "BOTZ ETF",
     "VICR": "Vicor",
     "RR": "Ritch Tech Robotics",
-    "ROK": "ROK Robotics",
     "SERV": "Servotronics",
     "SYM": "Service Robotics",
     "MYO": "Myo Robotics",
