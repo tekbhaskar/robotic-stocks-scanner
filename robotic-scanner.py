@@ -162,4 +162,4 @@ for tab, group in zip(tabs, group_names):
 # -------------------------
 # Manulal refresh button
 if st.button("🔄 Refresh Data"):    
-    st.experimental_rerun()
+    st.rerun()
